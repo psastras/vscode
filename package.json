@@ -28,7 +28,7 @@
     "gc-signals": "^0.0.1",
     "getmac": "1.0.7",
     "graceful-fs": "4.1.11",
-    "http-proxy-agent": "0.2.7",
+    "http-proxy-agent": "2.0.0",
     "https-proxy-agent": "0.3.6",
     "iconv-lite": "0.4.15",
     "jschardet": "^1.4.2",
